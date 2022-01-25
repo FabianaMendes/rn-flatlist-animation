@@ -1,6 +1,6 @@
 <h1 align="center">Animated React Native FlatList</h1>
 
-<img align="center" alt="video" src="./assets/video.mp4">
+<img align="center" alt="video" src="./assets/video.gif">
 
 <p align="center" >  
     <a href="#descrição">Descrição</a> • 
